@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dahyeon Jeong.
-- 👀 I’m interested in BeckEnd.
-- 🌱 I’m currently learning Sodidity.
+- 👀 I’m interested in .
+- 🌱 I’m currently learning .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
